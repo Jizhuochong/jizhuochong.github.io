@@ -8,13 +8,13 @@
 
 ##### 专业技能
 
-1. 熟悉struts、Hibernate、Spring3大框架，理解struts的运行流程，理解Hibernate的缓存  
-2. 熟悉extJs、easy UI、free Mark、bootstrap等前台框架  
-3. 掌握SpringMVC、JPA&SpringData、SpringSecurity、JBPM、mybatis、maven等开源框架  
-4. 熟悉springboot Dubbo等  
-5. 熟悉SVN、git等版本控制器  
-6. 熟悉Oracle、MySQL、db2等数据库  
-7. 了解Linux 基本常用命令，了解Shell 编程、redis缓存
+1. 熟悉struts、Hibernate、Spring3大框架，理解spring核心流程与原理，理解struts的运行流程，理解Hibernate的缓存  
+2. 熟悉extJs、easy UI、free Mark、bootstrap等前台框架
+3. 掌握SpringMVC、JPA&SpringData、SpringSecurity、JBPM、mybatis、maven等开源框架
+4. 熟悉springboot、springcloud、Zookeper、Dubbo等
+5. 熟练SVN、git等版本控制器；熟练使用Idea、Eclipse、Navicat等开发工具
+6. 熟练使用Oracle、MySQL、db2等数据库
+7. 了解Linux 基本常用命令，了解Shell 编程、redis,了解Linux下Java环境的开发和环境搭建，以及服务器的搭建和项目的部署
 
 
 > ##### 工作经历
@@ -22,7 +22,7 @@
   ```
 	2018.10-至今	卓邦软件股份有限公司
 		工作描述：  
-		负责中国电子科学研究院BI分析系统搭建，使用springboot集成mybatis，fastdfs存储文件，redis存储固定数据信息，使用CI自动集成部署到docker以及接口开发，数据库设计，接口调试和优化。
+		负责中国电子科学研究院BI分析系统搭建，使用springboot集成mybatis，fastdfs存储文件，redis存储固定数据信息，使用CI自动集成部署到docker以及接口开发，数据库设计，使用swagger-ui进行接口调试和优化。
 		
 	2016/07 - 2018/8 	北京同方鼎欣科技股份有限公司 
 		工作描述：  
